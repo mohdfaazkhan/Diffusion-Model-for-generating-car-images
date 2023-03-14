@@ -1,2 +1,2 @@
-# GAN_on_StanfordCars
-Build a Generative adversarial networks on StanfordCars dataset.
+# A Diffusion Model
+I build a Diffusion Model for generating car images. .
